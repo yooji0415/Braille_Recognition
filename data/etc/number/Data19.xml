@@ -1,0 +1,38 @@
+<annotation>
+	<folder>무제 폴더</folder>
+	<filename>Data19.jpeg</filename>
+	<path>/Users/jihoon/Desktop/무제 폴더/Data19.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>#</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1487</xmin>
+			<ymin>1676</ymin>
+			<xmax>1601</xmax>
+			<ymax>1893</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1618</xmin>
+			<ymin>1672</ymin>
+			<xmax>1739</xmax>
+			<ymax>1889</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1장:20cm</folder>
+	<filename>a73.jpeg</filename>
+	<path>/Users/jihoon/Desktop/data/1장:20cm/a73.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>o</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1566</xmin>
+			<ymin>438</ymin>
+			<xmax>1663</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1장:10cm</folder>
+	<filename>d7.jpeg</filename>
+	<path>/Users/yon_ninii/Desktop/data/1장:10cm/d7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1423</xmin>
+			<ymin>393</ymin>
+			<xmax>1578</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

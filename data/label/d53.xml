@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1장:10cm</folder>
+	<filename>d53.jpeg</filename>
+	<path>/Users/yon_ninii/Desktop/data/1장:10cm/d53.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2406</width>
+		<height>2406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>n</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1502</xmin>
+			<ymin>2042</ymin>
+			<xmax>1651</xmax>
+			<ymax>2263</ymax>
+		</bndbox>
+	</object>
+</annotation>

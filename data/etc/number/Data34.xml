@@ -1,0 +1,38 @@
+<annotation>
+	<folder>무제 폴더</folder>
+	<filename>Data34.jpeg</filename>
+	<path>/Users/jihoon/Desktop/무제 폴더/Data34.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>#</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1487</xmin>
+			<ymin>1738</ymin>
+			<xmax>1635</xmax>
+			<ymax>1920</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1632</xmin>
+			<ymin>1734</ymin>
+			<xmax>1756</xmax>
+			<ymax>1927</ymax>
+		</bndbox>
+	</object>
+</annotation>

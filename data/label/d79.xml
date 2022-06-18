@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1장:10cm</folder>
+	<filename>d79.jpeg</filename>
+	<path>/Users/yon_ninii/Desktop/data/1장:10cm/d79.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>1282</ymin>
+			<xmax>486</xmax>
+			<ymax>1504</ymax>
+		</bndbox>
+	</object>
+</annotation>

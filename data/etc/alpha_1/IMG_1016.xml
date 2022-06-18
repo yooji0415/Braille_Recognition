@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alpha_sticker</folder>
+	<filename>IMG_1016.jpeg</filename>
+	<path>/Users/jihoon/Desktop/alpha_sticker/IMG_1016.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1477</xmin>
+			<ymin>1634</ymin>
+			<xmax>1621</xmax>
+			<ymax>1896</ymax>
+		</bndbox>
+	</object>
+</annotation>

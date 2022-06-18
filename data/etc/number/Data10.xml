@@ -1,0 +1,38 @@
+<annotation>
+	<folder>무제 폴더</folder>
+	<filename>Data10.jpeg</filename>
+	<path>/Users/jihoon/Desktop/무제 폴더/Data10.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>#</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1442</xmin>
+			<ymin>1620</ymin>
+			<xmax>1563</xmax>
+			<ymax>1786</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>c</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1580</xmin>
+			<ymin>1613</ymin>
+			<xmax>1690</xmax>
+			<ymax>1782</ymax>
+		</bndbox>
+	</object>
+</annotation>

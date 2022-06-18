@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1장:10cm</folder>
+	<filename>d93.jpeg</filename>
+	<path>/Users/yon_ninii/Desktop/data/1장:10cm/d93.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>x</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1448</xmin>
+			<ymin>2471</ymin>
+			<xmax>1593</xmax>
+			<ymax>2704</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alpha_sticker</folder>
+	<filename>IMG_1025.jpeg</filename>
+	<path>/Users/jihoon/Desktop/alpha_sticker/IMG_1025.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1301</xmin>
+			<ymin>1386</ymin>
+			<xmax>1494</xmax>
+			<ymax>1648</ymax>
+		</bndbox>
+	</object>
+</annotation>

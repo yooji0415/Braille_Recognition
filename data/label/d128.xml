@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1장:10cm</folder>
+	<filename>d128.jpeg</filename>
+	<path>/Users/yon_ninii/Desktop/data/1장:10cm/d128.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2423</xmin>
+			<ymin>1330</ymin>
+			<xmax>2582</xmax>
+			<ymax>1537</ymax>
+		</bndbox>
+	</object>
+</annotation>
